@@ -1,0 +1,41 @@
+
+<%- include('partials/header') %>
+<%- include('partials/navbar') %>
+
+<!-- About Me page -->
+<main class="container mt-5">
+
+  <h1 class="text-center">About My Background</h1>
+
+  <section class="text-center mt-4">
+    <h2>About Me</h2>
+
+    <p class="mt-3">
+      My name is Thanyaa Vicknarajah, and I am
+      currently a student at Ontario Tech University
+      studying Networking and IT Security.
+    </p>
+
+    <!-- Personal photo -->
+    <img src="/images/profile.jpeg"
+         alt="Photo of Thanyaa Vicknarajah"
+         class="img-fluid rounded mt-3"
+         width="250">
+  </section>
+
+  <!-- Introduction video -->
+  <section class="text-center mt-5">
+    <h2>Get to Know Me</h2>
+
+    <video class="img-fluid mt-3"
+           width="500"
+           controls
+           poster="/images/poster.jpeg">
+      <source src="/videos/intro.mp4" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+  </section>
+
+</main>
+
+<%- include('partials/footer') %>

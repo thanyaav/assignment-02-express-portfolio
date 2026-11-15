@@ -1,0 +1,76 @@
+
+/* General website styling */
+body {
+  background-color: #fff8fb;
+  color: #333333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main page content */
+main {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+/* Headings */
+h1 {
+  color: #a83f70;
+  font-size: 36px;
+}
+
+h2 {
+  color: #b85c87;
+  font-size: 26px;
+}
+
+/* Paragraphs */
+p {
+  line-height: 1.6;
+}
+
+/* Navigation links */
+.navbar a {
+  color: #66334d;
+}
+
+/* Navigation hover effect */
+.navbar a:hover {
+  color: #a83f70;
+  text-decoration: underline;
+}
+
+/* Profile picture */
+main img {
+  border: 3px solid #f3c1d5;
+}
+
+/* Contact form */
+.form-control {
+  border: 1px solid #dba7bd;
+}
+
+/* Contact form button */
+.btn-primary {
+  background-color: #b85c87;
+  border-color: #b85c87;
+}
+
+/* Button hover effect */
+.btn-primary:hover {
+  background-color: #963f69;
+  border-color: #963f69;
+}
+
+/* Footer links */
+footer a {
+  color: #66334d;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
