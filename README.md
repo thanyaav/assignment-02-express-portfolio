@@ -56,11 +56,10 @@ The website introduces my background, education, technical skills, and academic 
 https://github.com/thanyaav/assignment-02-express-portfolio
 
 ## Live Website
-Deployment URL will be added after deployment.
+https://thanyaa-portfolio.onrender.com/
 
 ## References
 - Course lecture materials for Express.js and EJS.
 - Bootstrap documentation: https://getbootstrap.com/
 - Font Awesome: https://fontawesome.com/
 
-Any additional external code sources should be acknowledged here.
